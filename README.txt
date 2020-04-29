@@ -1,3 +1,7 @@
+# HTML5 UP 免費資源
+
+## 作為範本對於靜態網頁熟悉相關內容
+
 Paradigm Shift by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
